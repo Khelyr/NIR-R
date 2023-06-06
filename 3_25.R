@@ -7,7 +7,6 @@ library("car")
 library("sandwich")
 library("devtools")
 
-
 data = read.csv("r26i_os26b.csv")
 glimpse(data)
 
